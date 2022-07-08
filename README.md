@@ -1,4 +1,5 @@
 
 # examen_integrador
-gaston
-carolina
+gaston balmaceda
+Carolina Benitez
+Camilo Galindo
